@@ -1,6 +1,6 @@
 {
 
-  "image": "DOCKERHUB_USERNAME/vlabs2png",
+  "image": "vlaboratory/vlabs2png",
   "resources": {
     "memory_mb": "5000",
     "cpu_units": ""
