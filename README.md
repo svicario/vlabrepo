@@ -1,2 +1,2 @@
 # vlabrepo
-testing Vlab
+testing Vlab for GeoEssential and Ecopotential
